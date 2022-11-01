@@ -1,5 +1,5 @@
 tmp/
-*.DS_Store
-img/Thumbs.db
+.DS_Store
+img/
 *_old
 *_backup
